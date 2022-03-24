@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ES6",
+    "strict": true,
+    "noEmit":true,
+    "isolatedModules": true,
+    "esModuleInterop": true,
+    "jsx":"react" 
+  },
+  "include": ["./src/**/*"],
+}
